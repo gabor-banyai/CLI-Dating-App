@@ -1,0 +1,103 @@
+[
+{
+"name": "Tst",
+"username": "tst",
+"password": "c214d4e98fd7a82403949c6769c8b46b8d89c1adc359dacadacc4a37e5a31b8cb10495acbb0b96751bcc135d8bc24e28080de9b0d0e82d31d23d40597c1bc607e9091dbb29258d1dc370f23b82eea1ca400ca3d0374ef8e3f5ec0c97cc0174a4",
+"age": 19,
+"gender": {
+"__enum__": "Gender.FEMALE"
+},
+"interests": [],
+"pref_age_min": 18,
+"pref_age_max": 25,
+"pref_gender": {
+"__enum__": "Gender.MALE"
+}
+},
+{
+"name": "Mihai",
+"username": "mhp",
+"password": "c214d4e98fd7a82403949c6769c8b46b8d89c1adc359dacadacc4a37e5a31b8cb10495acbb0b96751bcc135d8bc24e28080de9b0d0e82d31d23d40597c1bc607e9091dbb29258d1dc370f23b82eea1ca400ca3d0374ef8e3f5ec0c97cc0174a4",
+"age": 20,
+"gender": {
+"__enum__": "Gender.MALE"
+},
+"interests": [],
+"pref_age_min": 18,
+"pref_age_max": 29,
+"pref_gender": {
+"__enum__": "Gender.FEMALE"
+}
+},
+{
+"name": "Tst",
+"username": "tst1",
+"password": "5fd64a0065db9d85922c3c06eebb01390b6f33bddf11db302877d50c791f37e84cca894c3c734497977b9f895d4246dcc06fe49077eab21fad3d6ea94748a32538b752d5b729999d540e260ab3daeef022ab71cd80663df6efe6e7e426e85373",
+"age": 20,
+"gender": {
+"__enum__": "Gender.FEMALE"
+},
+"interests": [
+"sport"
+],
+"pref_age_min": 18,
+"pref_age_max": 30,
+"pref_gender": {
+"__enum__": "Gender.MALE"
+}
+},
+{
+"name": "Tst",
+"username": "tst2",
+"password": "31127279b3afa5cdb9891b33e0e76cd7466772f1195591c6bac11ad4843dc9b7ad130da4b2d658fbcabc73837bcade39aec4ed3eca81bbb07a1fba88058842441f6c2fa25990163ac12ab56f0fa4a09cbe2ac7a37ee4a94280d0941945781145",
+"age": 22,
+"gender": {
+"__enum__": "Gender.MALE"
+},
+"interests": [
+"sport",
+"chess"
+],
+"pref_age_min": 18,
+"pref_age_max": 30,
+"pref_gender": {
+"__enum__": "Gender.FEMALE"
+}
+},
+{
+"name": "john",
+"username": "johnny",
+"password": "331b52808e9584b8f90a3559aefba95c5a592dd67c61c1a94a8de21c3c40b0886441ddbfcbb7247aa8b0c02a4ed643b30988bbab280f4a3547a747714a60ea2e2770b861a0a944cbdc53f7e6b36d52390333ea0a571c8d9ad99bc5673453a4ff",
+"age": 22,
+"gender": {
+"__enum__": "Gender.MALE"
+},
+"interests": [
+"sport",
+"hiking",
+"music"
+],
+"pref_age_min": 20,
+"pref_age_max": 45,
+"pref_gender": {
+"__enum__": "Gender.FEMALE"
+}
+},
+{
+"name": "Gabor",
+"username": "gab1234",
+"password": "f7e6003b18979a96f5a7538f39c900629f1c4d79b9ad0d8bcd8233033516932a319b07f6734f5655fb11f03bbbcd02290c705149da84b53dcd7fc711e3ad47a1b080b9674373d8b3e8403fbd7fcd2ba1643aec07f6977959956d698f09634705",
+"age": 25,
+"gender": {
+"__enum__": "Gender.MALE"
+},
+"interests": [
+"music"
+],
+"pref_age_min": 18,
+"pref_age_max": 27,
+"pref_gender": {
+"__enum__": "Gender.FEMALE"
+}
+}
+]
